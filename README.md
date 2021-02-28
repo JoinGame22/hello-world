@@ -1,3 +1,3 @@
 # hello-world
-# CSE 360 Hello World git demo
-# Shiling Dai
+CSE 360 Hello World git demo
+Shiling Dai
